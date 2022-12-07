@@ -13,9 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
  PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_marmite.mk
+    $(LOCAL_DIR)/arrow_marmite.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_marmite-user \
-    lineage_marmite-userdebug \
-    lineage_marmite-eng
+    arrow_marmite-user \
+    arrow_marmite-userdebug \
+    arrow_marmite-eng
